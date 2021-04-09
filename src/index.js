@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "onsenui/css/onsenui.css";
+import "onsenui/css/onsen-css-components.css";
 
 ReactDOM.render(
   <React.StrictMode>
